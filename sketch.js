@@ -24,9 +24,9 @@ function setup() {
   s = 0;
   ss = 0;
   a = 0;
-  camera=createCapture(VIDEO);
-  video = createCapture(VIDEO);
-  video.hide();
+ // camera=createCapture(VIDEO);
+ // video = createCapture(VIDEO);
+ // video.hide();
   
 }
 
